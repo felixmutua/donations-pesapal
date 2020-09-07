@@ -11,7 +11,7 @@ calls to a backend MySQL DB instance.
 
 ## Modify the Application Before Running
 
-The app can largely be used as-is. Edit [`config.php`](./donate.js) to
+The app can largely be used as-is. Edit [`config.php`](config/config.php) to
 change the `required parameter` variables  to the hostname where the backend
 application (also in this repo) is running.
 
